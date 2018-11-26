@@ -5,6 +5,8 @@ title: About
 
 Hello.
 
-This will be your About page. Anything about you, it should be written here in details. You may describe your bio here like who you are, what you do, your intention, social site hyperlinks and how people can contact you, etc.
+I'm Brianna. I am 30 and sort of in this place where I'm figuring out what I want to do. This blog is mainly a place where I will document things I'm learning and other musings. You can check out my [LinkedIn](https://www.linkedin.com/in/bwhit034/). 
+
+Ok, Bye. 
 
 **Less is more..**
