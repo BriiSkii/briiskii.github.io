@@ -9,4 +9,4 @@ I'm Brianna. I am 30 and sort of in this place where I'm figuring out what I wan
 
 Ok, Bye. 
 
-**Less is more..**
+**Entry Level is a lie..**
