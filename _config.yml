@@ -6,7 +6,7 @@ logo_url:           https://avatars3.githubusercontent.com/u/11261528?s=460&v=4 
 
 # Site Settings
 url:                https://briiskii.github.io # main url
-baseurl:            /cogs
+# baseurl:            /cogs
 permalink:          /:title # Post permalink
 timezone:           America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
