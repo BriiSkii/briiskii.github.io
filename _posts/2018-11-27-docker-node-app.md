@@ -1,4 +1,9 @@
-# Node.js to Docker
+---
+title: Node on Docker
+updated: 2018-11-27 20:55
+---
+
+# Node.js on Docker
 
 - Today I decided to find a simple project to deploy on docker. Decided on something involving Nodejs. Node already has [documentation](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/) on how to do this. I've been learning Docker, so a lot of this was familiar. Using the documentation I setup a basic web server and  installed the necessary modules. I initially used my vagrant box for the project but ran into a few issues with npm install constantly asking me to rewrite the names of different files. After fixing that issue, I uploaded my project to GitHub.  I then proceeded to build the Docker image and spin up the container. I was legit shocked it worked the first time. 
 
