@@ -27,8 +27,8 @@ I'm so elated I can connect, I hit the ground running, I run `docker swarm init`
 LESSONS / THOUGHTS
 - This gave me an opportunity to learn more about the netstat and ufw commands, since I don't get the use the regularly. 
 - I need to brush up on ssh, and different ways to troubleshoot it. 
-- Stack Overflow is a life saver -- That helpful post can be found [here] (https://stackoverflow.com/questions/46116999/workers-unable-to-connect-to-swarm-on-aws-ec2). It post says EC2, but works for other hosts. 
-- The Docker docs, are also helpful [Docker docs] (https://docs.docker.com/engine/swarm/swarm-tutorial/)
+- Stack Overflow is a life saver -- That helpful post can be found [here](https://stackoverflow.com/questions/46116999/workers-unable-to-connect-to-swarm-on-aws-ec2). It post says EC2, but works for other hosts. 
+- The Docker docs, are also helpful [Docker docs](https://docs.docker.com/engine/swarm/swarm-tutorial/)
 - Ask for help sooner. 
 - Definitely going to need to review Swarm 
 - Seriously girl?
